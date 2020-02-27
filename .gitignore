@@ -1,2 +1,2 @@
-datasets/
-models/
+datasets/Chest X-rays
+saved models/U-NET Lungs Segmentation Model/
