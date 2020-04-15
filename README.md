@@ -16,10 +16,11 @@ and classification.
   + [FCN-8 Architecture](#fcn-8-architecture)
 
 ### Datasets:
-I have used two different datasets to implement these architectures. 
-    + Top View Heads Dataset: can be downloaded [here](https://drive.google.com/open?id=1op3raw2kRKmKOmsVhBK3RXoIXewwR_ug)
-    + Lungs Segmentation from chest X-rays Dataset: can be downloaded [here](https://drive.google.com/open?id=1-HbRytWbfBGQ8y3Nw555QpZM95urda4V)
-    I have added both the original images and masks with its numpy files. 
+I have used two different datasets to implement these architectures. I have added both the original images and masks with its numpy files. 
+
+  + Top View Heads Dataset: can be downloaded [here](https://drive.google.com/open?id=1op3raw2kRKmKOmsVhBK3RXoIXewwR_ug)
+  + Lungs Segmentation from chest X-rays Dataset: can be downloaded [here](https://drive.google.com/open?id=1-HbRytWbfBGQ8y3Nw555QpZM95urda4V)
+  
 
 ### U-Net Architecture:
 <p align="center">
