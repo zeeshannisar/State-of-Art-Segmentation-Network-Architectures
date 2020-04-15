@@ -1,5 +1,6 @@
-datasets/Chest X-rays
+datasets/Lungs Segmentation from Chest-Xrays Dataset
 datasets/TOP-VIEW HEADS DATASET
+datasets/Pulmonary TB Segmentation from Chest X-rays Dataset
 
 saved Models/UNET Models/
 saved Models/SegNet Models/
