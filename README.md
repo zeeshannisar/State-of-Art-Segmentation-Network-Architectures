@@ -17,10 +17,13 @@ and classification.
 
 ### Datasets:
 I have used two different datasets to implement these architectures. 
+    + Top View Heads Dataset: can be downloaded [here](https://drive.google.com/open?id=1op3raw2kRKmKOmsVhBK3RXoIXewwR_ug)
+    + Lungs Segmentation from chest X-rays Dataset: can be downloaded [here](https://drive.google.com/open?id=1-HbRytWbfBGQ8y3Nw555QpZM95urda4V)
+    I have added both the original images and masks with its numpy files. 
 
 ### U-Net Architecture:
 <p align="center">
-  <img src="https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/ReadMe%20Images/unet-architecture.png">
+  <img src="https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/ReadMe%20Images/unet-architecture.png"; width=70%; height=70%>
   <br>
   <em> An illustration of U-NET Architecture </em>
 </p>
@@ -40,7 +43,9 @@ I have used two different datasets to implement these architectures.
 
 ### Seg-Net Architecture:
 <p align="center">
-  <img src="https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/ReadMe%20Images/segnet-architecture.png">
+  <img src="https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/ReadMe%20Images/segnet-architecture.png"; width=70%; height=70%>
+  <br>
+  <em> An illustration of Seg-NET Architecture </em>
 </p>
 
 #### Implementation and Results:
@@ -52,7 +57,9 @@ I have used two different datasets to implement these architectures.
 
 ### Res-Net Architecture:
 <p align="center">
-  <img src="https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/ReadMe%20Images/resnet-architecture.png">
+  <img src="https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/ReadMe%20Images/resnet-architecture.png"; width=70%; height=70%>
+  <br>
+  <em> An illustration of Res-NET Architecture </em>
 </p>
 
 #### Implementation and Results:
@@ -64,7 +71,9 @@ I have used two different datasets to implement these architectures.
 
 ### FCN-8 Architecture:
 <p align="center">
-  <img src="https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/ReadMe%20Images/fcn8-architecture.png">
+  <img src="https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/ReadMe%20Images/fcn8-architecture.png"; width=70%; height=70%>
+  <br>
+  <em> An illustration of FCN-8 Architecture </em>
 </p>  
 
 #### Implementation and Results:
