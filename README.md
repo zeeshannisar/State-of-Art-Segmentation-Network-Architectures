@@ -78,6 +78,10 @@ I have used two different datasets to implement these architectures. I have adde
 </p>  
 
 #### Implementation and Results:
+[Code: Google Colab Notebook for Lungs Segmentation](https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/FCN8%20Architecture/FCN8-implementation-Lungs%20Segmentation%20from%20Chest%20X-rays%20Dataset.ipynb)
+<p align="center">
+  <img src="https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/ReadMe%20Images/fcn-Lungs.png">
+</p>
 
 [Code: Google Colab Notebook for TVH Segmentation](https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/FCN8%20Architecture/FCN8-implementation-TOP%20VIEW%20HEADS%20Dataset.ipynb)
 <p align="center">
