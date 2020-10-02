@@ -36,7 +36,7 @@ I have used two different datasets to implement these architectures. I have adde
   <img src="https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/ReadMe%20Images/unet-Lungs.png">
 </p>
 
-[Code: Google Colab Notebook for TVH Segmentation](https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/U-NET%20Architecture/UNET-implementation-Lungs%20Segmentation%20from%20Chest%20X-rays.ipynbhttps://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/U-NET%20Architecture/UNET-implementation-TOP%20VIEW%20HEADS%20Dataset.ipynb)
+[Code: Google Colab Notebook for TVH Segmentation](https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/U-NET%20Architecture/UNET-implementation-TOP%20VIEW%20HEADS%20Dataset.ipynb)
 <p align="center">
   <img src="https://github.com/zeeshannisar/State-of-Art-Segmentation-Network-Architectures/blob/master/ReadMe%20Images/unet-TVH.png">
 </p>
